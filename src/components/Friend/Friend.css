@@ -1,0 +1,7 @@
+.friend-container{
+    border: 1px solid steelblue;
+    border-radius: 3px;
+    padding: 10px;
+    width: 350px;
+    margin: 10px auto;
+}
